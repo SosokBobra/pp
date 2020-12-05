@@ -1,0 +1,18 @@
+h1, h3 {
+    text-align: center;
+}
+
+body {
+    background-color: #add8e6;
+}
+
+img {
+    width: 100px;
+    float: left;
+    margin-right: 15px;
+}
+
+span {
+    font-size: 25px;
+    color: #0f6674;
+}
